@@ -1,0 +1,15 @@
+.general {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.li {
+    list-style: none;
+}
+.btn {
+    height: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    margin-left: 10px;
+}

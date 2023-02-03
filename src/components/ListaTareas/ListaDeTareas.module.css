@@ -1,0 +1,17 @@
+.general {
+    padding: 5%;
+}
+.input {
+    background-color: grey;
+    height: 30px;
+    border: none;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+.btn {
+    background-color: blue;
+    border: none;
+    border-radius: 10px;
+    height: 30px;
+    color: white;
+}
